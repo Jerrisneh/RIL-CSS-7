@@ -138,8 +138,4 @@ background-size: cover;
     .container{
         display: flex;
     }
-    .bold{
-        margin:0 20px;
-        padding: 0 20px;
-    }
 }
